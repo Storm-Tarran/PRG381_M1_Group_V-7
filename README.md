@@ -16,7 +16,7 @@ Java web application for student login and registration, app is built with JSP, 
 - `GitHub`
 
 ## Team Members and Roles 📣
-- `Christoffel Martinus (577963)`: JSP Pages and Dashboard
+- `Martinus Christoffel Wolmarans (577963)`: JSP Pages and Dashboard
 - `Storm Tarran (600995)`: Servlets
 - `Willem Paton (577287)`: Validation and Security
 - `Matt Takawira (600791)`: PostgreSQL and JDBC
